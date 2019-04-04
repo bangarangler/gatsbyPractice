@@ -3,6 +3,10 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
+.icon {
+  font-size: 3.5rem;
+}
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
